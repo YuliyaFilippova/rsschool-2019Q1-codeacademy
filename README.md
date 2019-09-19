@@ -1,10 +1,10 @@
 # rsschool-2019Q1-codeacademy
 Cources' archivements 
 
-##HTMLAcademy 
+## HTMLAcademy 
 Profile: id1122199
 
-##CodeAcademy 
+## CodeAcademy 
 
 https://www.codecademy.com/profiles/yuliyaPhilippova9287154087 
 or 
